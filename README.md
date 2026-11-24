@@ -11,19 +11,6 @@
 > **"Every citizen has a rightful claim to national welfare — in their own language, in their own voice."**  
 > *हक़दार (HaqDaar) bridges the critical last-mile gap between ₹10,00,000+ Crores in Direct Benefit Transfer (DBT) welfare allocations and the marginalized citizens who qualify for them.*
 
----
-
-## 📌 Academic & Submission Metadata
-
-* **Author:** Aditya Mogha (University Roll No.: `23098116780019`)
-* **Degree:** Bachelor of Technology in Computer Science & Engineering (Batch 2023–2027)
-* **Project Guide:** Ms. Kawaljeet Kaur, Assistant Professor, Dept. of Computer Science & Engineering
-* **Head of Department:** Dr. Sudhir Dagar, Dept. of Computer Science & Engineering
-* **Institutional Affiliation:** Department of Computer Science & Engineering
-* **Industrial Training Context:** RAG Research Assistant, Scientific Analysis Group (SAG), Defence Research and Development Organisation (DRDO)
-
----
-
 ## 🎯 The Civic Problem
 
 Every fiscal year, the Central and State Governments of India allocate over **₹10,000+ Billion** across welfare programs (agriculture credit, maternal healthcare, post-matric scholarships, rural housing, social security pensions). However, millions of eligible citizens at the bottom of the economic pyramid never claim their benefits due to systemic friction:
