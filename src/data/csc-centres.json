@@ -1,0 +1,1618 @@
+[
+  {
+    "id": "CSC-UP-001",
+    "name": "Jan Seva Kendra (CSC) — Hazratganj",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "pincode": "226001",
+    "vleName": "Rajesh Kumar Verma",
+    "phone": "+91 94150 12890",
+    "address": "Shop 14, Commercial Complex, Near GPO, Hazratganj, Lucknow, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "PM-KISAN eKYC",
+      "Ayushman Card Print",
+      "Aadhaar Seeding",
+      "Income/Caste Certificate",
+      "Scholarship Portal"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-002",
+    "name": "Digital Seva Kendra — Assi Ghat",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "pincode": "221005",
+    "vleName": "Amit Tripathi",
+    "phone": "+91 98390 45612",
+    "address": "B-3/210, Shivala Marg, Near Assi Crossing, Varanasi, UP",
+    "timings": "8:30 AM – 8:00 PM (All Days)",
+    "services": [
+      "PM-KISAN eKYC",
+      "e-Shram Registration",
+      "PMAY Application",
+      "Pension Verification",
+      "DigiShakti"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-MH-001",
+    "name": "Aaple Sarkar Seva Kendra — Shivajinagar",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "pincode": "411005",
+    "vleName": "Suresh Balkrishna Patil",
+    "phone": "+91 98220 78431",
+    "address": "Ghole Road, Opp. Municipal Ward Office, Shivajinagar, Pune, MH",
+    "timings": "9:30 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "MJPJAY Registration",
+      "Ladki Bahin eKYC",
+      "7/12 Land Records",
+      "Aadhaar Card Update",
+      "Ration Card"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-MH-002",
+    "name": "Setu Suvidha Kendra — Dadar West",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "pincode": "400028",
+    "vleName": "Pooja Sawant",
+    "phone": "+91 98692 34110",
+    "address": "Shop 4, Senapati Bapat Marg, Near Dadar Railway Station, Mumbai, MH",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "Ladki Bahin Yojana",
+      "Ayushman Golden Card",
+      "Income Certificate",
+      "Senior Citizen Card",
+      "PAN/Aadhaar Link"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-RJ-001",
+    "name": "E-Mitra Kiosk — C-Scheme",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "pincode": "302001",
+    "vleName": "Mahendra Singh Shekhawat",
+    "phone": "+91 94140 65892",
+    "address": "Plot 22, Ashok Marg, C-Scheme, Jaipur, Rajasthan",
+    "timings": "9:00 AM – 8:30 PM (All Days)",
+    "services": [
+      "Chiranjeevi Health Registration",
+      "Jan Aadhaar Enrollment",
+      "Palanhar Verification",
+      "Anuprati Coaching Form",
+      "Electricity Bill"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-BR-001",
+    "name": "Vasudha Kendra (CSC) — Kankarbagh",
+    "state": "Bihar",
+    "district": "Patna",
+    "pincode": "800020",
+    "vleName": "Sunil Kumar Choudhary",
+    "phone": "+91 93341 56780",
+    "address": "Tempo Stand, Main Road, Kankarbagh, Patna, Bihar",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Student Credit Card Support",
+      "Kanya Utthan Verification",
+      "PM-KISAN DBT",
+      "Ration Card",
+      "Jeevan Pramaan"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "CSC-KA-001",
+    "name": "Bangalore One / Grama One — Indiranagar",
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "pincode": "560038",
+    "vleName": "Latha Venkatesh",
+    "phone": "+91 98450 89123",
+    "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka",
+    "timings": "8:00 AM – 7:00 PM (All Days)",
+    "services": [
+      "Gruha Lakshmi Registration",
+      "Yuva Nidhi Verification",
+      "Seva Sindhu Passports",
+      "Aadhaar Update",
+      "Caste Certificate"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-TN-001",
+    "name": "TNeGA e-Sevai Maiyam — T. Nagar",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "pincode": "600017",
+    "vleName": "K. Murugan",
+    "phone": "+91 94440 23891",
+    "address": "Ranganathan Street Near Bus Terminus, T. Nagar, Chennai, Tamil Nadu",
+    "timings": "9:00 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Kalaignar Magalir Urimai Thogai",
+      "Pudhumai Penn Verification",
+      "Smart Ration Card",
+      "Community Certificate",
+      "CMCHIS Card"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-WB-001",
+    "name": "Bangla Sahayata Kendra (BSK) — Salt Lake",
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "pincode": "700091",
+    "vleName": "Subrata Mukherjee",
+    "phone": "+91 98300 78219",
+    "address": "Sector 1, Block BD, Near City Centre 1, Salt Lake, Kolkata, WB",
+    "timings": "10:00 AM – 6:00 PM (Mon-Sat)",
+    "services": [
+      "Swasthya Sathi Card",
+      "Lakshmir Bhandar Registration",
+      "Kanyashree K1/K2",
+      "Duare Sarkar Services",
+      "Khadya Sathi Ration"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-MP-001",
+    "name": "MP Online Kiosk — MP Nagar",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "pincode": "462011",
+    "vleName": "Dharmendra Sahu",
+    "phone": "+91 98260 41238",
+    "address": "Zone-II, Commercial Enclave, MP Nagar, Bhopal, MP",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "Ladli Behna eKYC",
+      "Samagra ID Update",
+      "Sambal 2.0 Card",
+      "Rojgar Portal",
+      "MP Task Scholarship"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-GJ-001",
+    "name": "Digital Seva Kendra — Navrangpura",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "pincode": "380009",
+    "vleName": "Jignesh Bhavsar",
+    "phone": "+91 98250 90123",
+    "address": "Commerce Six Roads, Navrangpura, Ahmedabad, Gujarat",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "MAA Card Cashless Health",
+      "Manav Garima Toolkit Form",
+      "Kisan Suryodaya Application",
+      "7/12 Land Records",
+      "e-Dhara"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-KL-001",
+    "name": "Akshaya E-Centre — Palayam",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "pincode": "695034",
+    "vleName": "Mini Varghese",
+    "phone": "+91 94470 56214",
+    "address": "Near University Library, Palayam, Thiruvananthapuram, Kerala",
+    "timings": "9:00 AM – 6:00 PM (Mon-Sat)",
+    "services": [
+      "KASP Health Insurance",
+      "LIFE Mission Housing Registration",
+      "Aadhaar Services",
+      "Pravasi Welfare",
+      "E-District Certificates"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-TS-001",
+    "name": "MeeSeva Centre — Ameerpet",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "pincode": "500016",
+    "vleName": "V. Srinivas Rao",
+    "phone": "+91 98480 34567",
+    "address": "Opp. Metro Pillar A1042, Main Road, Ameerpet, Hyderabad, Telangana",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Rythu Bandhu Seeding",
+      "Kalyana Lakshmi Application",
+      "Aasara Pension",
+      "Caste & Income Certificate",
+      "Dharani Passbook"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-OD-001",
+    "name": "Mo Seva Kendra — Saheed Nagar",
+    "state": "Odisha",
+    "district": "Bhubaneswar",
+    "pincode": "751007",
+    "vleName": "Priyabrata Jena",
+    "phone": "+91 94370 89210",
+    "address": "Plot 118, Janpath, Saheed Nagar, Bhubaneswar, Odisha",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "KALIA Scheme Assistance",
+      "BSKY Card Verification",
+      "Aadhaar Seeding",
+      "Farmer Registration",
+      "Mamata Scheme DBT"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-DL-001",
+    "name": "CSC Citizen Facilitation Centre — Connaught Place",
+    "state": "Delhi",
+    "district": "New Delhi",
+    "pincode": "110001",
+    "vleName": "Amitabh Sen",
+    "phone": "+91 98112 34501",
+    "address": "Block B, Middle Circle, Connaught Place, Near Rajiv Chowk Gate 2, New Delhi",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "Aadhaar Biometric Update",
+      "Ayushman Card Print",
+      "PM-KISAN eKYC",
+      "PAN Card Services",
+      "Delhi Ladli Portal"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-DL-002",
+    "name": "Jan Seva Kendra — GPO Gol Dak Khana",
+    "state": "Delhi",
+    "district": "New Delhi",
+    "pincode": "110001",
+    "vleName": "Pooja Malhotra",
+    "phone": "+91 98112 34502",
+    "address": "Counter 4, General Post Office Complex, Ashoka Road, Gol Dak Khana, New Delhi",
+    "timings": "9:30 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Aadhaar Mobile Link",
+      "India Post Payments Bank (IPPB)",
+      "PM-SYM Pension Registration",
+      "e-Shram Registration",
+      "Senior Citizen Pension"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-003",
+    "name": "CSC Digital Seva Kendra — Saket",
+    "state": "Delhi",
+    "district": "South Delhi",
+    "pincode": "110017",
+    "vleName": "Vikas Raghav",
+    "phone": "+91 98112 34503",
+    "address": "Shop 12, DDA Community Centre, Behind Saket Metro Station, Saket, New Delhi",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "Income/Caste Certificate",
+      "Delhi Solar Net Metering",
+      "PM-KISAN eKYC",
+      "Ayushman Card Print",
+      "Passport Application Support"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-004",
+    "name": "Jan Seva Kendra — Lajpat Nagar Central Market",
+    "state": "Delhi",
+    "district": "South Delhi",
+    "pincode": "110024",
+    "vleName": "Sunil Grover",
+    "phone": "+91 98112 34504",
+    "address": "Second Floor, Metro Pillar 18, Central Market, Lajpat Nagar II, New Delhi",
+    "timings": "10:00 AM – 8:30 PM (Tue-Sun)",
+    "services": [
+      "Delhi Ladli Scheme",
+      "Widow Distress Pension",
+      "Aadhaar Demographic Update",
+      "Voter ID Card Print",
+      "PM Vishwakarma Biometric"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-DL-005",
+    "name": "CSC E-District Suvidha Kendra — Hauz Khas",
+    "state": "Delhi",
+    "district": "South Delhi",
+    "pincode": "110016",
+    "vleName": "Deepak Rawat",
+    "phone": "+91 98112 34505",
+    "address": "Market Complex, Near Hauz Khas Main Market & Metro Gate 3, New Delhi",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "Ration Card e-KYC",
+      "Divyang Pension Application",
+      "Ayushman Card Print",
+      "Digital Life Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-006",
+    "name": "Digital Seva Kendra — Karol Bagh",
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "pincode": "110005",
+    "vleName": "Harish Chawla",
+    "phone": "+91 98112 34506",
+    "address": "Shop 28, Desh Bandhu Gupta Road, Near Karol Bagh Metro Station, New Delhi",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Udyam MSME Registration",
+      "GST & ITR Filing Support",
+      "PM Mudra Application Assistance",
+      "Aadhaar Card Print",
+      "e-Shram Seeding"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-DL-007",
+    "name": "Jan Seva Kendra — Model Town",
+    "state": "Delhi",
+    "district": "North Delhi",
+    "pincode": "110009",
+    "vleName": "Gaurav Sehgal",
+    "phone": "+91 98112 34507",
+    "address": "Main Ring Road Commercial Complex, Near Model Town Metro Gate 1, Delhi",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Scholarship Portal (NSP)",
+      "Delhi Vidyarthi Pratibha",
+      "Aadhaar Biometric Update",
+      "Ayushman Card Print",
+      "BOCW Worker Registration"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-008",
+    "name": "CSC District Facilitation Centre — Tis Hazari",
+    "state": "Delhi",
+    "district": "North Delhi",
+    "pincode": "110054",
+    "vleName": "Manoj Kashyap",
+    "phone": "+91 98112 34508",
+    "address": "Opposite Gate 2, Tis Hazari Court Complex, Civil Lines, Delhi",
+    "timings": "9:00 AM – 6:00 PM (Mon-Fri)",
+    "services": [
+      "Affidavit & Legal Stamp Attestation",
+      "Marriage Registration",
+      "Caste / Domicile Certificate",
+      "e-Court Case Status",
+      "Pension Portal"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-DL-009",
+    "name": "Jan Seva Kendra (CSC) — Rohini Sector 7",
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "pincode": "110085",
+    "vleName": "Ritu Mittal",
+    "phone": "+91 98112 34509",
+    "address": "Plot 45, Pocket B-4, Near M2K Cinema, Rohini Sector 7, Delhi",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "PM Surya Ghar Rooftop",
+      "Delhi Ladli Scheme",
+      "Aadhaar Enrolment & Update",
+      "Ayushman Card Print",
+      "Senior Citizen Concession"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-DL-010",
+    "name": "Atal Seva Kendra — Rohini Sector 16",
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "pincode": "110089",
+    "vleName": "Naveen Tyagi",
+    "phone": "+91 98112 34510",
+    "address": "DDA Commercial Pocket, Sardar Patel Marg, Rohini Sector 16, Delhi",
+    "timings": "9:30 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "Ration Card Subsidized Print",
+      "PM-KISAN eKYC",
+      "BOCW Worker Card",
+      "Divyangjan Pension"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-011",
+    "name": "Digital Seva Kendra — Pitampura Kohat Enclave",
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "pincode": "110034",
+    "vleName": "Praveen Goel",
+    "phone": "+91 98112 34511",
+    "address": "Local Shopping Complex, Opposite Metro Pillar 342, Kohat Enclave, Pitampura, Delhi",
+    "timings": "10:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "Mukhyamantri Jai Bhim Pratibha",
+      "Aadhaar Card Print",
+      "Udyam Certificate",
+      "Ayushman Golden Card",
+      "Income Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-012",
+    "name": "Jan Seva Kendra (CSC) — Dwarka Sector 10",
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "pincode": "110075",
+    "vleName": "Sanjay Solanki",
+    "phone": "+91 98112 34512",
+    "address": "HL Square Commercial Centre, Sector 10 Main Market, Dwarka, New Delhi",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "PM Surya Ghar Registration",
+      "Senior Citizen Pension",
+      "Ayushman Card Print",
+      "Voter ID Seeding"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-DL-013",
+    "name": "CSC Citizen Center — Ramphal Chowk, Dwarka",
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "pincode": "110077",
+    "vleName": "Kavita Dahiya",
+    "phone": "+91 98112 34513",
+    "address": "Shop 19, Main Ramphal Chowk, Sector 7, Dwarka, New Delhi",
+    "timings": "9:30 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "Delhi Ladli Scheme",
+      "Aadhaar Mobile Link",
+      "PAN Card Verification",
+      "PM Vishwakarma Biometric",
+      "Digital Life Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-014",
+    "name": "District E-Governance Centre — Janakpuri District Centre",
+    "state": "Delhi",
+    "district": "West Delhi",
+    "pincode": "110058",
+    "vleName": "Manpreet Singh",
+    "phone": "+91 98112 34514",
+    "address": "Ground Floor, Pragati Deep Building, District Centre, Janakpuri, New Delhi",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "Income/Caste Certificate",
+      "Ayushman Card Print",
+      "PM-KISAN eKYC",
+      "Passport Application"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-DL-015",
+    "name": "Jan Seva Kendra — Rajouri Garden",
+    "state": "Delhi",
+    "district": "West Delhi",
+    "pincode": "110027",
+    "vleName": "Raman Kapoor",
+    "phone": "+91 98112 34515",
+    "address": "Near Metro Gate 4, Main Ring Road Market, Rajouri Garden, New Delhi",
+    "timings": "10:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "BOCW Construction Card",
+      "Widow Pension Scheme",
+      "Aadhaar Biometric Update",
+      "EPFO Digital Life Certificate",
+      "Ayushman Card"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-DL-016",
+    "name": "CSC Digital Seva Kendra — Laxmi Nagar Main Market",
+    "state": "Delhi",
+    "district": "East Delhi",
+    "pincode": "110092",
+    "vleName": "Neeraj Gupta",
+    "phone": "+91 98112 34516",
+    "address": "Vikas Marg, Opposite Metro Pillar 38, Laxmi Nagar, Delhi",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "Udyam Registration",
+      "Delhi Jai Bhim Coaching Registration",
+      "Aadhaar Card Print",
+      "Income Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-017",
+    "name": "Jan Seva Kendra — Mayur Vihar Phase 1",
+    "state": "Delhi",
+    "district": "East Delhi",
+    "pincode": "110091",
+    "vleName": "Swati Bhatt",
+    "phone": "+91 98112 34517",
+    "address": "Shop 5, Pocket 1 DDA Market, Near Mayur Vihar Phase 1 Metro Station, Delhi",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Delhi Ladli Scheme",
+      "Ayushman Card Print",
+      "Senior Citizen Teerth Yatra Form",
+      "PM-KISAN eKYC",
+      "Voter ID Card Print"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-DL-018",
+    "name": "CSC Citizen Center — Shahdara Metro",
+    "state": "Delhi",
+    "district": "Shahdara",
+    "pincode": "110032",
+    "vleName": "Mohammed Rashid",
+    "phone": "+91 98112 34518",
+    "address": "GT Road, Near Shahdara Flyover & Railway Station, Shahdara, Delhi",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "e-District Delhi Certificates",
+      "e-Shram Registration",
+      "BOCW Worker Welfare",
+      "Ration Card Linkage",
+      "Aadhaar Biometric Update"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-DL-019",
+    "name": "Jan Seva Kendra — Dilshad Garden",
+    "state": "Delhi",
+    "district": "Shahdara",
+    "pincode": "110095",
+    "vleName": "Anil Sharma",
+    "phone": "+91 98112 34519",
+    "address": "Pocket B Commercial Complex, Near GTB Hospital Metro, Dilshad Garden, Delhi",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Ayushman Card Print",
+      "ABHA ID Registration",
+      "Delhi Distress Women Pension",
+      "PM Surya Ghar",
+      "Aadhaar Mobile Link"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-001",
+    "name": "Antyodaya Saral Kendra (DC Office) — Gurugram",
+    "state": "Haryana",
+    "district": "Gurugram",
+    "pincode": "122001",
+    "vleName": "Rakesh Yadav (In-Charge)",
+    "phone": "+91 98124 56001",
+    "address": "Mini Secretariat, Ground Floor, Saral Hall, Near Rajiv Chowk, Gurugram, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (Family ID/PPP)",
+      "Haryana Chirayu Ayushman Card",
+      "Happy Card Roadways Pass",
+      "MMPSY Verification",
+      "Income/Caste Verification"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-002",
+    "name": "Atal Seva Kendra (CSC) — Sector 14, Gurugram",
+    "state": "Haryana",
+    "district": "Gurugram",
+    "pincode": "122001",
+    "vleName": "Vikram Chauhan",
+    "phone": "+91 98124 56002",
+    "address": "Shop 42, HUDA Market, Sector 14, Old Delhi-Gurugram Road, Gurugram, Haryana",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "PPP Family ID Update",
+      "Chirayu Ayushman Golden Card",
+      "Meri Fasal Mera Byora",
+      "Happy Card Roadways Pass",
+      "Aadhaar Biometric Update"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-003",
+    "name": "CSC Digital Kendra — DLF Phase 3 / Cyber City",
+    "state": "Haryana",
+    "district": "Gurugram",
+    "pincode": "122002",
+    "vleName": "Priyanka Saini",
+    "phone": "+91 98124 56003",
+    "address": "Commercial Centre, U Block, Near DLF Phase 3 Rapid Metro, Gurugram, Haryana",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Haryana Domicile Certificate",
+      "Udyam MSME Registration",
+      "e-Shram Seeding",
+      "Ayushman Card Print",
+      "Passport Seva Assistance"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-HR-004",
+    "name": "Antyodaya Saral Kendra — Sohna Road",
+    "state": "Haryana",
+    "district": "Gurugram",
+    "pincode": "122101",
+    "vleName": "Narender Khatana",
+    "phone": "+91 98124 56004",
+    "address": "Opposite Sub-Tehsil Office, Main Sohna-Alwar Highway, Sohna, Gurugram, Haryana",
+    "timings": "9:00 AM – 6:00 PM (Mon-Sat)",
+    "services": [
+      "Meri Fasal Mera Byora",
+      "Bhavantar Bharpai Registration",
+      "Pashudhan Bima Yojana",
+      "Parivar Pehchan Patra (PPP)",
+      "PM-KISAN eKYC"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-005",
+    "name": "Antyodaya Saral Kendra (DC Office) — Sector 12, Faridabad",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "pincode": "121007",
+    "vleName": "Dinesh Sharma (In-Charge)",
+    "phone": "+91 98124 56005",
+    "address": "Mini Secretariat, Ground Floor, Sector 12, Faridabad, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Bharat Card",
+      "Happy Card Roadways Pass",
+      "Old Age Samman Pension",
+      "Divyang Pension"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-006",
+    "name": "Atal Seva Kendra (CSC) — NIT Faridabad Market 1",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "pincode": "121001",
+    "vleName": "Sanjay Ahuja",
+    "phone": "+91 98124 56006",
+    "address": "Shop 18, Block B, Market No. 1, NIT Faridabad, Haryana",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "PPP Family ID Update",
+      "Ayushman Golden Card",
+      "Labour Welfare Board Education Grant",
+      "Vivah Shagun Yojana",
+      "Aadhaar Mobile Link"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-007",
+    "name": "Jan Seva Kendra (CSC) — Ballabhgarh",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "pincode": "121004",
+    "vleName": "Mukesh Bhati",
+    "phone": "+91 98124 56007",
+    "address": "Near Old Bus Stand & Sub-Divisional Complex, Ballabhgarh, Faridabad, Haryana",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Happy Card 1000km Bus Pass",
+      "Meri Fasal Mera Byora",
+      "Manohar Jyoti Solar Scheme",
+      "PM-KISAN eKYC",
+      "Parivar Pehchan Patra (PPP)"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-HR-008",
+    "name": "Antyodaya Saral Kendra — Panipat Mini Secretariat",
+    "state": "Haryana",
+    "district": "Panipat",
+    "pincode": "132103",
+    "vleName": "Ravinder Malik",
+    "phone": "+91 98124 56008",
+    "address": "Saral Hall, Mini Secretariat, GT Road, Panipat, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Card",
+      "Industrial Worker Labour Grants",
+      "Happy Card Pass",
+      "Old Age Samman Pension"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-009",
+    "name": "Atal Seva Kendra (CSC) — Model Town, Panipat",
+    "state": "Haryana",
+    "district": "Panipat",
+    "pincode": "132103",
+    "vleName": "Ashish Jaglan",
+    "phone": "+91 98124 56009",
+    "address": "Shop 9, Model Town Main Road, Near Sanatan Dharam Mandir, Panipat, Haryana",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Textile Worker e-Shram Registration",
+      "PM Vishwakarma Artisan Registration",
+      "Ayushman Card Print",
+      "PPP Income Verification",
+      "PAN Card Services"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-010",
+    "name": "CSC Gramin Seva Kendra — Samalkha Mandi",
+    "state": "Haryana",
+    "district": "Panipat",
+    "pincode": "132101",
+    "vleName": "Sandeep Nain",
+    "phone": "+91 98124 56010",
+    "address": "Railway Road, Near Anaj Mandi, Samalkha, Panipat, Haryana",
+    "timings": "9:00 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Meri Fasal Mera Byora (MFMB)",
+      "Bhavantar Bharpai Yojana",
+      "Kisan Credit Card Support",
+      "Pashudhan Bima",
+      "PM-KISAN eKYC"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-011",
+    "name": "Antyodaya Saral Kendra (DC Office) — Karnal",
+    "state": "Haryana",
+    "district": "Karnal",
+    "pincode": "132001",
+    "vleName": "Kuldeep Sandhu",
+    "phone": "+91 98124 56011",
+    "address": "Mini Secretariat, Ground Floor, Mall Road, Karnal, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Card Print",
+      "Haryana Happy Card",
+      "Antyodaya Parivar Utthan (MMAPUY)",
+      "Old Age Samman Allowance"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-012",
+    "name": "Atal Seva Kendra (CSC) — Kunjpura Road, Karnal",
+    "state": "Haryana",
+    "district": "Karnal",
+    "pincode": "132001",
+    "vleName": "Sunita Kamboj",
+    "phone": "+91 98124 56012",
+    "address": "Opposite Old Bus Stand, Kunjpura Road, Karnal, Haryana",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Meri Fasal Mera Byora",
+      "Matrushakti Udaymita Scheme",
+      "Haryana Vivah Shagun",
+      "Aadhaar Card Print",
+      "Chirayu Ayushman Card"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-013",
+    "name": "Atal Seva Kendra — Gharaunda",
+    "state": "Haryana",
+    "district": "Karnal",
+    "pincode": "132114",
+    "vleName": "Rajender Pal",
+    "phone": "+91 98124 56013",
+    "address": "Main GT Road, Near Sub-Tehsil Office, Gharaunda, Karnal, Haryana",
+    "timings": "9:00 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Vegetable Cluster Bhavantar Registration",
+      "PM-KISAN eKYC",
+      "Soil Health Card Print",
+      "Pashudhan Bima",
+      "Parivar Pehchan Patra"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-HR-014",
+    "name": "Antyodaya Saral Kendra (DC Office) — Ambala City",
+    "state": "Haryana",
+    "district": "Ambala",
+    "pincode": "134003",
+    "vleName": "Mohit Jindal",
+    "phone": "+91 98124 56014",
+    "address": "Mini Secretariat, Court Complex, Ambala City, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Card",
+      "Happy Card Pass",
+      "Haryana Vivah Shagun",
+      "Medhavi Chhatra Scholarship"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-015",
+    "name": "Atal Seva Kendra (CSC) — Ambala Cantt",
+    "state": "Haryana",
+    "district": "Ambala",
+    "pincode": "133001",
+    "vleName": "Tarun Batra",
+    "phone": "+91 98124 56015",
+    "address": "Shop 14, Sadar Bazar, Near Capital Cinema, Ambala Cantt, Haryana",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Scientific Instrument Udyam MSME",
+      "Ayushman Card Print",
+      "Aadhaar Biometric Update",
+      "Old Age Pension Seeding",
+      "Digital Life Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-016",
+    "name": "Antyodaya Saral Kendra (DC Office) — Rohtak",
+    "state": "Haryana",
+    "district": "Rohtak",
+    "pincode": "124001",
+    "vleName": "Surender Hooda",
+    "phone": "+91 98124 56016",
+    "address": "Mini Secretariat, Delhi Road, Rohtak, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Golden Card",
+      "Happy Card Bus Pass",
+      "Old Age Pension Automatic Sanction",
+      "BOCW Welfare"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-017",
+    "name": "Atal Seva Kendra (CSC) — Model Town, Rohtak",
+    "state": "Haryana",
+    "district": "Rohtak",
+    "pincode": "124001",
+    "vleName": "Anu Sheoran",
+    "phone": "+91 98124 56017",
+    "address": "D Park Road, Model Town, Near MDU Gate 1, Rohtak, Haryana",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Haryana Higher Education Girls Bus Pass",
+      "NSP Scholarship Verification",
+      "Ayushman Card Print",
+      "Aadhaar Card Update",
+      "PPP Verification"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-018",
+    "name": "Antyodaya Saral Kendra (DC Office) — Hisar",
+    "state": "Haryana",
+    "district": "Hisar",
+    "pincode": "125001",
+    "vleName": "Pawan Beniwal",
+    "phone": "+91 98124 56018",
+    "address": "Mini Secretariat, Rajgarh Road, Hisar, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Meri Fasal Mera Byora",
+      "Cotton/Wheat Compensation",
+      "Chirayu Ayushman Card",
+      "Happy Card Roadways Pass"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-019",
+    "name": "Atal Seva Kendra (CSC) — Hansi GT Road",
+    "state": "Haryana",
+    "district": "Hisar",
+    "pincode": "125033",
+    "vleName": "Satish Boora",
+    "phone": "+91 98124 56019",
+    "address": "Near Bus Stand, GT Road, Hansi, Hisar, Haryana",
+    "timings": "9:00 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Meri Fasal Mera Byora (MFMB)",
+      "Pashudhan Bima Yojana",
+      "PM-KISAN eKYC",
+      "Parivar Pehchan Patra",
+      "Ayushman Card Print"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-HR-020",
+    "name": "Antyodaya Saral Kendra (DC Office) — Sonipat",
+    "state": "Haryana",
+    "district": "Sonipat",
+    "pincode": "131001",
+    "vleName": "Ajay Antil",
+    "phone": "+91 98124 56020",
+    "address": "Mini Secretariat, Sector 15, Sonipat, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Card",
+      "Happy Card Bus Pass",
+      "Labour Welfare Board Education Grant",
+      "Old Age Pension"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-021",
+    "name": "CSC Digital Kendra — Kundli Industrial Area",
+    "state": "Haryana",
+    "district": "Sonipat",
+    "pincode": "131028",
+    "vleName": "Manish Rohilla",
+    "phone": "+91 98124 56021",
+    "address": "Phase 4 Commercial Complex, Kundli Industrial Area, Sonipat, Haryana",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Industrial Worker e-Shram Registration",
+      "PF / ESI Assistance",
+      "Udyam Certificate",
+      "Ayushman Card Print",
+      "PPP Income Seeding"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-022",
+    "name": "Antyodaya Saral Kendra (DC Office) — Sector 5, Panchkula",
+    "state": "Haryana",
+    "district": "Panchkula",
+    "pincode": "134114",
+    "vleName": "Geeta Verma (In-Charge)",
+    "phone": "+91 98124 56022",
+    "address": "Mini Secretariat, Sector 1, Near Bella Vista Roundabout, Panchkula, Haryana",
+    "timings": "9:00 AM – 5:00 PM (Mon-Fri)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Golden Card",
+      "Happy Card Pass",
+      "State Pension Sanctions",
+      "Haryana Domicile Certificate"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-HR-023",
+    "name": "Atal Seva Kendra — Thanesar, Kurukshetra",
+    "state": "Haryana",
+    "district": "Kurukshetra",
+    "pincode": "136118",
+    "vleName": "Jagmohan Saini",
+    "phone": "+91 98124 56023",
+    "address": "Opposite Judicial Courts Complex, Railway Road, Thanesar, Kurukshetra, Haryana",
+    "timings": "9:00 AM – 6:30 PM (Mon-Sat)",
+    "services": [
+      "Meri Fasal Mera Byora",
+      "Paddy Procurement J-Form",
+      "Parivar Pehchan Patra (PPP)",
+      "Ayushman Card Print",
+      "PM-KISAN eKYC"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-HR-024",
+    "name": "Atal Seva Kendra (CSC) — Circular Road, Rewari",
+    "state": "Haryana",
+    "district": "Rewari",
+    "pincode": "123401",
+    "vleName": "Dharmender Yadav",
+    "phone": "+91 98124 56024",
+    "address": "Near Brass Market, Circular Road, Rewari, Haryana",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Parivar Pehchan Patra (PPP)",
+      "Chirayu Ayushman Card",
+      "Manohar Jyoti Solar Scheme",
+      "Mustard Bhavantar Compensation",
+      "BOCW Worker Pass"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-003",
+    "name": "Jan Seva Kendra (CSC) — Sector 18, Noida",
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "pincode": "201301",
+    "vleName": "Rajeev Tyagi",
+    "phone": "+91 98180 23401",
+    "address": "Shop 14, Commercial Center, Behind Wave Cinema, Sector 18, Noida, UP",
+    "timings": "9:30 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Caste/Income Certificate",
+      "UP Kanya Sumangala Portal",
+      "Ayushman Golden Card Print",
+      "Aadhaar Biometric Update",
+      "PAN Card Services"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-004",
+    "name": "Digital Seva Kendra — Sector 62 Electronic City, Noida",
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "pincode": "201309",
+    "vleName": "Sneha Upadhyay",
+    "phone": "+91 98180 23402",
+    "address": "Block B, Near Electronic City Metro Station & Fortis Hospital, Sector 62, Noida, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP Abhyudaya Coaching Registration",
+      "DigiShakti Smartphone Status",
+      "Ayushman Card Print",
+      "UP Yuva Swarojgar Application",
+      "Udyam Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-005",
+    "name": "Jan Seva Kendra — Pari Chowk, Greater Noida",
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "pincode": "201310",
+    "vleName": "Vinod Bhati",
+    "phone": "+91 98180 23403",
+    "address": "Shop 22, Commercial Complex, Near Pari Chowk Metro Roundabout, Greater Noida, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "UP Kanya Sumangala",
+      "PM-KISAN eKYC",
+      "Ayushman Card Print",
+      "Rural Land Khatauni Print"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-006",
+    "name": "Jan Seva Kendra (CSC) — Raj Nagar RDC, Ghaziabad",
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "pincode": "201002",
+    "vleName": "Gaurav Goel",
+    "phone": "+91 98180 23404",
+    "address": "Plot 11, RDC Commercial Center, Near District Court, Raj Nagar, Ghaziabad, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Income/Caste/Domicile",
+      "UP Kanya Sumangala",
+      "Nirashrit Mahila Pension",
+      "Ayushman Golden Card",
+      "Aadhaar Update"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-007",
+    "name": "CSC Digital Kendra — Indirapuram, Ghaziabad",
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "pincode": "201014",
+    "vleName": "Meenakshi Joshi",
+    "phone": "+91 98180 23405",
+    "address": "Shop 8, Windsor Market, Vaibhav Khand, Indirapuram, Ghaziabad, UP",
+    "timings": "10:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "UP Solar Rooftop Net Metering",
+      "Kanya Sumangala Registration",
+      "Senior Citizen Pension",
+      "Ayushman Card Print",
+      "Passport Seva Assistance"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-008",
+    "name": "Jan Seva Kendra — Vaishali Sector 4, Ghaziabad",
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "pincode": "201010",
+    "vleName": "Pradeep Aggarwal",
+    "phone": "+91 98180 23406",
+    "address": "Near Vaishali Metro Station Gate 1, Sector 4, Ghaziabad, UP",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "Ayushman Card Print",
+      "Aadhaar Card Print & Mobile Link",
+      "UP Shadi Anudan Form",
+      "Voter ID Card"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-UP-009",
+    "name": "Jan Seva Kendra (CSC) — Begum Bridge, Meerut",
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "pincode": "250001",
+    "vleName": "Mohd. Tariq Khan",
+    "phone": "+91 98180 23407",
+    "address": "Shop 16, Abu Lane Corner, Begum Bridge Road, Meerut, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Sports Goods ODOP Udyam Registration",
+      "UP e-District Certificates",
+      "Ayushman Golden Card",
+      "PM-KISAN eKYC",
+      "Kanya Sumangala"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-010",
+    "name": "Atal Seva Kendra — Shastri Nagar, Meerut",
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "pincode": "250004",
+    "vleName": "Pankaj Rastogi",
+    "phone": "+91 98180 23408",
+    "address": "Central Market, Sector 2, Shastri Nagar, Meerut, UP",
+    "timings": "9:30 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "UP Abhyudaya Coaching Registration",
+      "Vishwakarma Shram Samman",
+      "BOCW Labour Card",
+      "Aadhaar Biometric Update",
+      "Income Certificate"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-011",
+    "name": "Jan Seva Kendra (CSC) — Sanjay Place, Agra",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "pincode": "282002",
+    "vleName": "Deepak Agrawal",
+    "phone": "+91 98180 23409",
+    "address": "Block 38, Commercial Hub, Sanjay Place, Near LIC Building, Agra, UP",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Leather Footwear ODOP Export Support",
+      "UP e-District Certificates",
+      "Ayushman Golden Card",
+      "PM-KISAN eKYC",
+      "UP Shadi Anudan"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-012",
+    "name": "CSC Heritage Kendra — Tajganj, Agra",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "pincode": "282001",
+    "vleName": "Arun Katheria",
+    "phone": "+91 98180 23410",
+    "address": "Fatehabad Road, Near Shilpgram, Tajganj, Agra, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "UP Vishwakarma Marble Artisan Support",
+      "PM Vishwakarma Biometric",
+      "e-Shram Worker Registration",
+      "Aadhaar Mobile Link",
+      "Ayushman Card Print"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "CSC-UP-013",
+    "name": "Jan Seva Kendra (CSC) — Civil Lines, Kanpur",
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "pincode": "208001",
+    "vleName": "Alok Srivastava",
+    "phone": "+91 98180 23411",
+    "address": "Mall Road Commercial Arcade, Near Phoolbagh, Civil Lines, Kanpur, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "Industrial Worker PF & ESI Support",
+      "Ayushman Golden Card",
+      "UP Yuva Swarojgar Loan Assistance",
+      "Income/Caste Certificate"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-014",
+    "name": "Digital Seva Kendra — Kalyanpur, Kanpur",
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "pincode": "208017",
+    "vleName": "Rakesh Tiwari",
+    "phone": "+91 98180 23412",
+    "address": "Main GT Road, Near Kalyanpur Railway Crossing & CSJMU Gate, Kanpur, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "DigiShakti Smartphone Status",
+      "UP Abhyudaya Coaching Portal",
+      "Kanya Sumangala Scheme",
+      "Aadhaar Biometric Update",
+      "Ayushman Card Print"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-015",
+    "name": "Jan Seva Kendra (CSC) — Civil Lines, Prayagraj",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "pincode": "211001",
+    "vleName": "Vivek Mishra",
+    "phone": "+91 98180 23413",
+    "address": "MG Marg, Opposite High Court Gate 3, Civil Lines, Prayagraj, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "High Court Affidavit & Stamp Attestation",
+      "UP Abhyudaya IAS Mentoring Form",
+      "Ayushman Golden Card",
+      "Income Certificate"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-016",
+    "name": "CSC Citizen Kendra — Katra, Prayagraj",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "pincode": "211002",
+    "vleName": "Shashank Pandey",
+    "phone": "+91 98180 23414",
+    "address": "Netram Chauraha, University Road, Katra, Prayagraj, UP",
+    "timings": "9:30 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "UGC/NSP Student Scholarship",
+      "DigiShakti Tablet Status",
+      "Aadhaar Card Print",
+      "Kanya Sumangala Scheme",
+      "UP Shadi Anudan Form"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-017",
+    "name": "Jan Seva Kendra (CSC) — Golghar, Gorakhpur",
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "pincode": "273001",
+    "vleName": "Akhilesh Shukla",
+    "phone": "+91 98180 23415",
+    "address": "Shop 24, Baldev Plaza, Golghar Main Market, Gorakhpur, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Income/Caste",
+      "PM-KISAN eKYC",
+      "Ayushman Golden Card Print",
+      "UP Gopalak Dairy Farm Loan",
+      "UP Krishak Durghatna Kalyan"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-018",
+    "name": "CSC E-District Kendra — Medical College Road, Gorakhpur",
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "pincode": "273013",
+    "vleName": "Pooja Chaubey",
+    "phone": "+91 98180 23416",
+    "address": "Near BRD Medical College Gate 1, Asuran Pokhari, Gorakhpur, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Ayushman Bharat Golden Card Print",
+      "ABHA Health Account",
+      "Nikshay Poshan TB Grant",
+      "UP Divyang Pension",
+      "Aadhaar Mobile Link"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-019",
+    "name": "Jan Seva Kendra — Cantt Station Road, Varanasi",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "pincode": "221002",
+    "vleName": "Rameshwar Maurya",
+    "phone": "+91 98180 23417",
+    "address": "Varanasi Junction Cantt Road, Near Central Bus Stand, Varanasi, UP",
+    "timings": "8:30 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "Ayushman Golden Card",
+      "Banarasi Weavers ODOP Subsidy",
+      "PM Vishwakarma Biometric",
+      "Aadhaar Card Print"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-020",
+    "name": "Jan Seva Kendra — Sigra / Rathyatra, Varanasi",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "pincode": "221010",
+    "vleName": "Abhishek Tripathi",
+    "phone": "+91 98180 23418",
+    "address": "Sigra Chauraha, Opposite Nagar Nigam Complex, Varanasi, UP",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Kanya Sumangala Registration",
+      "UP Abhyudaya Coaching Form",
+      "Nirashrit Mahila Widow Pension",
+      "Income/Caste Certificate",
+      "Digital Life Certificate"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-021",
+    "name": "Jan Seva Kendra (CSC) — Gomti Nagar, Lucknow",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "pincode": "226010",
+    "vleName": "Anupam Dixit",
+    "phone": "+91 98180 23419",
+    "address": "Shop 11, Patrakar Puram Commercial Market, Gomti Nagar, Lucknow, UP",
+    "timings": "9:00 AM – 8:00 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "UP Solar Net Metering Subsidy",
+      "Kanya Sumangala Scheme",
+      "Ayushman Golden Card Print",
+      "Aadhaar Biometric Update"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-022",
+    "name": "CSC E-Governance Kendra — Alambagh, Lucknow",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "pincode": "226005",
+    "vleName": "Satish Chandra Verma",
+    "phone": "+91 98180 23420",
+    "address": "Near Alambagh Bus Terminal & Metro Station, Kanpur Road, Lucknow, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP Roadways Bus Pass",
+      "Old Age Samman Pension",
+      "Ayushman Card Print",
+      "PM-KISAN eKYC",
+      "e-Shram UAN Seeding"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-023",
+    "name": "Jan Seva Kendra — Indira Nagar, Lucknow",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "pincode": "226016",
+    "vleName": "Pankaj Saxena",
+    "phone": "+91 98180 23421",
+    "address": "Sector 14 Commercial Market, Near Munshipulia Metro Station, Indira Nagar, Lucknow, UP",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "Kanya Sumangala Scheme",
+      "Widow Destitute Pension",
+      "Aadhaar Card Print",
+      "UP Shadi Anudan Form"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-024",
+    "name": "Jan Seva Kendra (CSC) — Civil Lines, Bareilly",
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "pincode": "243001",
+    "vleName": "Mohd. Zeeshan",
+    "phone": "+91 98180 23422",
+    "address": "Ayub Khan Chauraha, Civil Lines Station Road, Bareilly, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Zari-Zardozi ODOP Artisan Subsidy",
+      "UP e-District Certificates",
+      "PM Vishwakarma Biometric",
+      "Ayushman Card Print",
+      "PM-KISAN eKYC"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-025",
+    "name": "CSC E-District Kendra — Center Point, Aligarh",
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "pincode": "202001",
+    "vleName": "Nitin Varshney",
+    "phone": "+91 98180 23423",
+    "address": "Marris Road, Center Point Commercial Arcade, Aligarh, UP",
+    "timings": "9:30 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "Lock & Hardware ODOP MSME Scheme",
+      "UP e-District Certificates",
+      "Ayushman Golden Card",
+      "AMU Student Scholarship Portal",
+      "Aadhaar Update"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-026",
+    "name": "Jan Seva Kendra — Civil Lines, Moradabad",
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "pincode": "244001",
+    "vleName": "Sanjay Rastogi",
+    "phone": "+91 98180 23424",
+    "address": "Opposite Head Post Office, Station Road, Civil Lines, Moradabad, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Brass Handicraft Artisan Export Support",
+      "PM Vishwakarma Toolkit Registration",
+      "UP e-District Certificates",
+      "Ayushman Card Print",
+      "e-Shram Card"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-027",
+    "name": "Jan Seva Kendra (CSC) — Civil Lines, Ayodhya",
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "pincode": "224001",
+    "vleName": "Ramendra Pratap Singh",
+    "phone": "+91 98180 23425",
+    "address": "Civil Lines, Near Faizabad Railway Junction, Ayodhya, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "PM-KISAN eKYC",
+      "Kanya Sumangala Scheme",
+      "Ayushman Golden Card Print",
+      "UP Gopalak Loan Scheme"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-028",
+    "name": "CSC Jan Suvidha Kendra — Ram Janmabhoomi Path, Ayodhya",
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "pincode": "224123",
+    "vleName": "Ashok Tiwari",
+    "phone": "+91 98180 23426",
+    "address": "Dharampath Marg, Near Naya Ghat & Pilgrim Facilitation Centre, Ayodhya Dham, UP",
+    "timings": "8:00 AM – 8:00 PM (Daily)",
+    "services": [
+      "Senior Citizen Pilgrimage Assistance",
+      "Ayushman Emergency Card Print",
+      "Aadhaar Mobile Link",
+      "Divyangjan Wheelchair Assistance",
+      "e-Pass Support"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "CSC-UP-029",
+    "name": "Jan Seva Kendra (CSC) — Krishna Nagar, Mathura",
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "pincode": "281004",
+    "vleName": "Gopal Sharma",
+    "phone": "+91 98180 23427",
+    "address": "Highway Plaza Commercial Complex, Krishna Nagar, Delhi-Agra Highway, Mathura, UP",
+    "timings": "9:00 AM – 7:30 PM (Mon-Sat)",
+    "services": [
+      "UP e-District Certificates",
+      "Dairy Gopalak Loan Scheme",
+      "PM-KISAN eKYC",
+      "Ayushman Card Print",
+      "Aadhaar Card Print"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "CSC-UP-030",
+    "name": "CSC Digital Kendra — Elite Crossing, Jhansi",
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "pincode": "284001",
+    "vleName": "Bundela Raj",
+    "phone": "+91 98180 23428",
+    "address": "Opposite Collectorate, Elite Crossing, Sadar Bazar, Jhansi, UP",
+    "timings": "9:00 AM – 7:00 PM (Mon-Sat)",
+    "services": [
+      "Bundelkhand Drought Farmer Compensation",
+      "UP Krishak Durghatna",
+      "Ayushman Golden Card Print",
+      "PM-KISAN eKYC",
+      "UP Shadi Anudan Form"
+    ],
+    "rating": 4.8
+  }
+]
